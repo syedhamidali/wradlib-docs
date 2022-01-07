@@ -29,7 +29,7 @@ Now you can use the ``conda`` package and environment manager (`conda documentat
 
 #. Create a new environment from scratch::
 
-    $ conda create --name wradlib python=3.8
+    $ conda create --name wradlib python=3.9
 
 #. Activate the :math:`\omega radlib` environment::
 
